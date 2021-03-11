@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\POO121\GitHubPractice\bin\Debug\net5.0\GitHubPractice.exe
+C:\Users\User\Desktop\POO121\GitHubPractice\bin\Debug\net5.0\GitHubPractice.deps.json
+C:\Users\User\Desktop\POO121\GitHubPractice\bin\Debug\net5.0\GitHubPractice.runtimeconfig.json
+C:\Users\User\Desktop\POO121\GitHubPractice\bin\Debug\net5.0\GitHubPractice.runtimeconfig.dev.json
+C:\Users\User\Desktop\POO121\GitHubPractice\bin\Debug\net5.0\GitHubPractice.dll
+C:\Users\User\Desktop\POO121\GitHubPractice\bin\Debug\net5.0\ref\GitHubPractice.dll
+C:\Users\User\Desktop\POO121\GitHubPractice\bin\Debug\net5.0\GitHubPractice.pdb
+C:\Users\User\Desktop\POO121\GitHubPractice\obj\Debug\net5.0\GitHubPractice.csprojAssemblyReference.cache
+C:\Users\User\Desktop\POO121\GitHubPractice\obj\Debug\net5.0\GitHubPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\POO121\GitHubPractice\obj\Debug\net5.0\GitHubPractice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\POO121\GitHubPractice\obj\Debug\net5.0\GitHubPractice.AssemblyInfo.cs
+C:\Users\User\Desktop\POO121\GitHubPractice\obj\Debug\net5.0\GitHubPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\POO121\GitHubPractice\obj\Debug\net5.0\GitHubPractice.dll
+C:\Users\User\Desktop\POO121\GitHubPractice\obj\Debug\net5.0\ref\GitHubPractice.dll
+C:\Users\User\Desktop\POO121\GitHubPractice\obj\Debug\net5.0\GitHubPractice.pdb
+C:\Users\User\Desktop\POO121\GitHubPractice\obj\Debug\net5.0\GitHubPractice.genruntimeconfig.cache
