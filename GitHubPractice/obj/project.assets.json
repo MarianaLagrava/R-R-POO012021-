@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\R0k3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\POO121\\GitHubPractice\\GitHubPractice.csproj",
+      "projectUniqueName": "C:\\Users\\R0k3\\Documents\\R-R-POO012021-\\GitHubPractice\\GitHubPractice.csproj",
       "projectName": "GitHubPractice",
-      "projectPath": "C:\\Users\\User\\Desktop\\POO121\\GitHubPractice\\GitHubPractice.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\POO121\\GitHubPractice\\obj\\",
+      "projectPath": "C:\\Users\\R0k3\\Documents\\R-R-POO012021-\\GitHubPractice\\GitHubPractice.csproj",
+      "packagesPath": "C:\\Users\\R0k3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\R0k3\\Documents\\R-R-POO012021-\\GitHubPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\R0k3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
