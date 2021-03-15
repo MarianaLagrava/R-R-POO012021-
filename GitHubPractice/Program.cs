@@ -13,11 +13,11 @@ namespace GitHubPractice
 
             Console.WriteLine("Enter a value for b:");
             b = Int32.Parse(Console.ReadLine());
-            Console.WriteLine($"Subtracting {a}-{b} equals {SubtractNumbers(a,b)}");
+            Console.WriteLine($"Multiplying {a}*{b} equals {MultiplyingNumbers(a,b)}");
         }
 
-        public static int SubtractNumbers(int a, int b){
-            return a-b;
+        public static int MultiplyingNumbers(int a, int b){
+            return a*b;
         }
     }
 }
