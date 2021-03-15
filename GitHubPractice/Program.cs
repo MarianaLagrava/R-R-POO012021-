@@ -17,7 +17,7 @@ namespace GitHubPractice
         }
 
         public static int MultiplyingNumbers(int a, int b){
-            return a*b; 
+            return a*b;
         }
     }
 }
